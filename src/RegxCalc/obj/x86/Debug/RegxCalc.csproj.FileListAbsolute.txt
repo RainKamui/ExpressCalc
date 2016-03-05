@@ -1,0 +1,17 @@
+d:\my documents\visual studio 2010\Projects\RegxCalc\RegxCalc\bin\Debug\RegxCalc.exe
+d:\my documents\visual studio 2010\Projects\RegxCalc\RegxCalc\bin\Debug\RegxCalc.pdb
+d:\my documents\visual studio 2010\Projects\RegxCalc\RegxCalc\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\RegxCalc\RegxCalc\obj\x86\Debug\RegxCalc.Form1.resources
+d:\my documents\visual studio 2010\Projects\RegxCalc\RegxCalc\obj\x86\Debug\RegxCalc.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\RegxCalc\RegxCalc\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\RegxCalc\RegxCalc\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\RegxCalc\RegxCalc\obj\x86\Debug\RegxCalc.exe
+d:\my documents\visual studio 2010\Projects\RegxCalc\RegxCalc\obj\x86\Debug\RegxCalc.pdb
+F:\Dev\Net\github\ExpressCalc\src\RegxCalc\bin\Debug\RegxCalc.exe
+F:\Dev\Net\github\ExpressCalc\src\RegxCalc\bin\Debug\RegxCalc.pdb
+F:\Dev\Net\github\ExpressCalc\src\RegxCalc\obj\x86\Debug\RegxCalc.csprojResolveAssemblyReference.cache
+F:\Dev\Net\github\ExpressCalc\src\RegxCalc\obj\x86\Debug\RegxCalc.Form1.resources
+F:\Dev\Net\github\ExpressCalc\src\RegxCalc\obj\x86\Debug\RegxCalc.Properties.Resources.resources
+F:\Dev\Net\github\ExpressCalc\src\RegxCalc\obj\x86\Debug\RegxCalc.csproj.GenerateResource.Cache
+F:\Dev\Net\github\ExpressCalc\src\RegxCalc\obj\x86\Debug\RegxCalc.exe
+F:\Dev\Net\github\ExpressCalc\src\RegxCalc\obj\x86\Debug\RegxCalc.pdb
